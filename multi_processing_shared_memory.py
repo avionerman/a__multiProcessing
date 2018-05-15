@@ -1,7 +1,7 @@
 import multiprocessing
 
 def calc_square(array_1, result, v):            # Accept the variable v, which is equals to zero, and this can be changed in the method.
-    v.value = 10.10                             # If this will be implemented after the for there is going to be an error. ONLY excactly after the def.
+    v.value = 10.10                             # If this will be implemented, after the for, there is going to be an error. ONLY excactly after the def.
     for id, number in enumerate(array_1):
         result[id] = number*number
 
