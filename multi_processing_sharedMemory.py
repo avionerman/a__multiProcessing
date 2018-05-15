@@ -7,7 +7,7 @@ def calc_square(array_1, result, v):            # Accept the variable v, which i
 
 if __name__ == "__main__":
 
-    array = [18, 92, 126, 655, 989, 1002]  # Random given numbers.
+    array = [18, 92, 126, 655, 989, 1002]  # Random given numbers from user or a txt or other file.
 
     """create a shared memory as an array. The indicator 'i' means that I am going
     to send integers and the second value has the name of the array that I
