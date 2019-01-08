@@ -11,4 +11,4 @@ Program.Lang: Python3.6+
 
 Packages: time, multiprocessing
 
-Please note! Do not hesitate to contact me in any case using the following address: papadopoulos.v.dimitris@gmail.com
+Please note! Do not hesitate to contact me in any case using the following address: papadopoulos.v.dimitris@gmail.com or my LinkedIn profile https://www.linkedin.com/in/dimitriosvpapadopoulos/
